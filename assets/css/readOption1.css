@@ -1,0 +1,43 @@
+.option {
+	width: 48%;
+	height: 200px;
+	text-align: center;
+	overflow: hidden;
+	float: left;
+	margin: 1%;
+	border-radius: 10px;
+	transition: ease 0.3s;
+	position: relative;
+}
+
+.option:hover {
+	background-color: #4dd6c9;
+}
+
+.no-calon {
+	color: #1f6879;
+}
+
+
+.text {
+	transition: ease 0.3s;
+	color: #ffffff;
+}
+
+.text, h6 {
+	
+	position: absolute;
+	bottom: 0%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -20%);
+}
+
+.option .text h3, .option .text p{
+	transition: ease 0.1s;
+}
+
+.option:hover .text h3, .option:hover .text p{
+	color: #ffffff;
+	transform: scale(1.1);
+}
