@@ -42,7 +42,7 @@ Dibuat dengan mempertimbangkan acuan dari panitia acara tersebut yang ingin meny
 
 <h3 id="fitur">🔑 Bagian Admin</h3>
 
-1. Login diakses melalui http://localhost/pemilustifar2024/admin/dashboard dengan (username = orangbejo, password = minumtolakangin)
+1. Login diakses melalui http://localhost/Pemilu-Stifar-2024/admin/dashboard dengan (username = orangbejo, password = minumtolakangin)
 ![Alt teks](assets/img/step1-admin.png)
 
 2. Disini panitia dapat mengelola data pemilih. Mulai dari menambah peserta, mengedit nama peserta, menghapus peserta, serta menghapus suara peserta. Hanya itu.

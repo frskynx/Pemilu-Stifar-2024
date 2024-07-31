@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/pemilustifar2024';
+$config['base_url'] = 'http://localhost/Pemilu-Stifar-2024';
 // $config['base_url'] = 'https://a082-114-10-151-214.ngrok-free.app/pemilustifar2024';
 
 /*
