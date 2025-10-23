@@ -25,7 +25,7 @@ Dibuat dengan mempertimbangkan acuan dari panitia acara tersebut yang ingin meny
 <h2 id="fitur">✨ Alur Website</h2>
 <h3 id="fitur">👤 Bagian Peserta</h3>
 
-1. Login untuk memulai sesi pemilu dengan (username = orangbejo, password = minumtolakangin). Hanya panitia yang dapat memulai sesi pemilu.
+1. Login untuk memulai sesi pemilu. Hanya panitia yang dapat memulai sesi pemilu.
 ![Alt teks](assets/img/step1.png)
 
 2. Input NIM untuk mulai memilih. Di tahap ini device yang digunakan akan diletakkan pada bilik dan para pemilih akan melakukan pemilihan. NIM merupakan 9 digit kombinasi angka.
